@@ -1,3 +1,10 @@
 .uasset filter=lfs diff=lfs merge=lfs -text
 .umap filter=lfs diff=lfs merge=lfs -text
 Content/**/* filter=lfs diff=lfs merge=lfs -text
+Content/AnimalVarietyPack/**/* filter=lfs diff=lfs merge=lfs -text
+Content/FABs/**/* filter=lfs diff=lfs merge=lfs -text
+Content/Light_Foliage/**/* filter=lfs diff=lfs merge=lfs -text
+Content/Male_3/**/* filter=lfs diff=lfs merge=lfs -text
+Content/OWD_Fruit_Vegetable/**/* filter=lfs diff=lfs merge=lfs -text
+Content/OWD_Yucca_Pack/**/* filter=lfs diff=lfs merge=lfs -text
+Content/TMBackyardPack2/**/* filter=lfs diff=lfs merge=lfs -text
